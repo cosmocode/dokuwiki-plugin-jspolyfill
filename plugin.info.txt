@@ -1,0 +1,7 @@
+base   jspolyfill
+author Michael Große
+email  dokuwiki@cosmocode.de
+date   2017-08-16
+name   jspolyfill plugin
+desc   JS Polyfills to let plugins use some modern javascript and still support IE11
+url    https://dokuwiki.org/plugin:jspolyfill
